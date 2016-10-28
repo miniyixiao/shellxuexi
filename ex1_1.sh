@@ -3,3 +3,4 @@
 
 echo "$# parameters"
 echo "$@"
+echo "$1"
