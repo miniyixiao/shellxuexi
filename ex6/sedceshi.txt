@@ -1,0 +1,11 @@
+vendor/amax
+vendor/app-prebuilt/config
+vendor/app-prebuilt/data
+vendor/app-prebuilt/tools
+vendor/app-prebuilt/vend
+
+
+8937/vendor/amax
+8937/vendor/app-prebuilt/config
+8937/vendor/app-prebuilt/data
+8937/vendor/app-prebuilt/tools
